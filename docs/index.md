@@ -43,7 +43,5 @@ Location Data
 * Mineral Photos
 
 ## Stretch goals/possible enhancements 
-### Persistent data
-Share pictures and locations of mineral deposits from users.
-## Server component
-Sharing location, photos, claims, and possible safety concerns
+### Persistent data and Server component
+Sharing location, photos, claims, locations of mineral deposit, and possible safety concerns.
