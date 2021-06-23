@@ -1,18 +1,19 @@
 ## Summary
 
-The purpose of this app, is to narrow research by using gps and keywords to help locate existing locations of certain minerals, crystals, and fossils. 
+The purpose of this app, is to narrow research by using gps and keywords to help locate known locations of certain minerals, crystals, and fossils. 
 
 
 ## Intended users
 
-I am an avid explorer. I like to find treasure during my adventures. Finding a location with treasure is a lot harder than it seems.  
-> As an explorer an app that helps with research of minerals would help with choosing a location.
+I am an avid explorer.   
 
-The rock hound; an amateur geologist collector of mineral specimens. Finding locations for certain minerals can help geologist look for other minerals attached to certain parent material. 
-  i.e., gold is found near quartz.
+>Finding locations for certain minerals can help geologist look for other minerals attached to certain parent material.
+i.e., gold is found near quartz, as an explorer an app that helps with research of minerals would help with choosing a location.
+
+The rock hound; an amateur geologist collector of mineral specimens.
 
 >A "Rock hound" I know has spent a large amount of time looking for crystals, minerals, and fossils with no avail due to lack of interface on outdated websites.
-## Client component
+
 
 ### Functionality
 * The application will be able to search specific minerals through keywords. 
@@ -42,6 +43,13 @@ Location Data
 * Mines and Mine Data
 * Mineral Photos
 
+###Persistent data and Server component
+
+* Sharing location
+* photos
+  * possible safety concerns.
+* claims
+* locations of mineral deposits. 
+
 ## Stretch goals/possible enhancements 
-### Persistent data and Server component
-Sharing location, photos, claims, locations of mineral deposit, and possible safety concerns.
+
