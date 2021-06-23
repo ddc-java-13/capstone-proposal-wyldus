@@ -22,7 +22,15 @@ The rock hound; an amateur geologist collector of mineral specimens.
 
 ### Persistent data
 
-Location Data    
+* photos
+  * possible safety concerns.
+* Claims
+* Saved locations
+  * pinned points on map
+
+### Transient Data 
+* Location Data    
+
 ### Device/external services
 * GPS 
 * Compass
@@ -32,7 +40,7 @@ Location Data
 
 
 ### Functionality
-* Show location of mineral deposits
+* Show location of listed mineral deposits
 * Organize mineral data 
   * Use photos to show what the mineral looks like
   
@@ -43,12 +51,9 @@ Location Data
 * Mines and Mine Data
 * Mineral Photos
 
-###Persistent data and Server component
-* photos
-  * possible safety concerns.
-* Claims
-* Saved locations 
-  * pinned points on map 
+###Server component
+* Additional 'new' locations to share
+* Photo Posting on map
 
 ## Stretch goals/possible enhancements 
 * Sharing location
