@@ -21,7 +21,6 @@ The rock hound; an amateur geologist collector of mineral specimens.
 
 
 ### Persistent data
-
 * photos
   * possible safety concerns.
 * Claims
