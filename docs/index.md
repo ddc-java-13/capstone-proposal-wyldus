@@ -44,12 +44,12 @@ Location Data
 * Mineral Photos
 
 ###Persistent data and Server component
-
-* Sharing location
 * photos
   * possible safety concerns.
-* claims
-* locations of mineral deposits. 
+* Claims
+* Saved locations 
+  * pinned points on map 
 
 ## Stretch goals/possible enhancements 
+* Sharing location
 
