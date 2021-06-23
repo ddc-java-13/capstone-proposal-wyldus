@@ -19,7 +19,6 @@ The rock hound; an amateur geologist collector of mineral specimens.
 * The application will be able to search specific minerals through keywords. 
 * Place location pin and show if a claim and show ownership of property I.E., BLM land or private property.
 
-
 ### Persistent data
 * photos
   * possible safety concerns.
@@ -34,15 +33,12 @@ The rock hound; an amateur geologist collector of mineral specimens.
 * GPS 
 * Compass
 * Sharing
-    
-
-
 
 ### Functionality
 * Show location of listed mineral deposits
 * Organize mineral data 
   * Use photos to show what the mineral looks like
-  
+
 ### External services
 * Claim Data
 * Mineral Data
@@ -50,7 +46,7 @@ The rock hound; an amateur geologist collector of mineral specimens.
 * Mines and Mine Data
 * Mineral Photos
 
-###Server component
+### Server component
 * Additional 'new' locations to share
 * Photo Posting on map
 
